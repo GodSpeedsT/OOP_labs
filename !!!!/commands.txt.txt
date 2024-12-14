@@ -1,0 +1,4 @@
+translate rect[1] 50 70
+scale line[O_o] 1 1.5
+rotate 90
+undo
